@@ -1,6 +1,14 @@
-.box{
+body{
+    padding: 0%;
+    margin: 0%;
+}
+    .box{
     height: 100px;
     width: 100px;
     background-color: darkblue;
-    display: inline-block
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
